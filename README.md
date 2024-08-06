@@ -1,3 +1,3 @@
 # oguzhanercan.github.io
 
-Slides on Diffusion Models Research
+Slides about Diffusion Models Research
